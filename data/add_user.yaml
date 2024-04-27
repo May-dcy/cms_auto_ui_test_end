@@ -1,0 +1,9 @@
+add_user001:
+  name: 'abc'
+  mobile_phone: '15344445555'
+  mail: '15344445555@qq.com'
+  username: 'abc'
+  password: '123456'
+  confirm_password: '123456'
+
+

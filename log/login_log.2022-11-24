@@ -1,0 +1,80 @@
+2022-11-24 14:37:05,253 - [base.py-->line:13] - INFO: 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="030646c2b151fce495fcdcd1803de2bf")>
+2022-11-24 14:37:05,256 - [login_page.py-->line:22] - INFO: 正在调用登录业务方法，用户名为：admin，密码为：123456
+2022-11-24 14:37:05,256 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'userAccount')
+2022-11-24 14:37:05,276 - [base.py-->line:33] - INFO: 正在对元素:('id', 'userAccount')执行清空操作
+2022-11-24 14:37:05,357 - [base.py-->line:37] - INFO: 正在对元素:('id', 'userAccount')执行输入:admin操作
+2022-11-24 14:37:05,426 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginPwd')
+2022-11-24 14:37:05,444 - [base.py-->line:33] - INFO: 正在对元素:('id', 'loginPwd')执行清空操作
+2022-11-24 14:37:05,470 - [base.py-->line:37] - INFO: 正在对元素:('id', 'loginPwd')执行输入:123456操作
+2022-11-24 14:37:05,536 - [base.py-->line:26] - INFO: 正在点击元素:('id', 'loginBtn')
+2022-11-24 14:37:05,536 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginBtn')
+2022-11-24 14:37:05,598 - [base.py-->line:13] - INFO: 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="030646c2b151fce495fcdcd1803de2bf")>
+2022-11-24 14:37:05,600 - [add_user_page.py-->line:68] - INFO: 正在调用新增用户方法，姓名为：abc
+2022-11-24 14:37:05,601 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:05,601 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:06,849 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:06,849 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:07,242 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:07,258 - [base.py-->line:73] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:07,281 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '/html/body/div/div[2]/span[1]/a[2]')
+2022-11-24 14:37:07,281 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '/html/body/div/div[2]/span[1]/a[2]')
+2022-11-24 14:37:07,651 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'xubox_iframe1')
+2022-11-24 14:37:07,667 - [base.py-->line:73] - INFO: 正在查找元素:('id', 'xubox_iframe1')
+2022-11-24 14:37:07,691 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'userName')
+2022-11-24 14:37:07,706 - [base.py-->line:33] - INFO: 正在对元素:('id', 'userName')执行清空操作
+2022-11-24 14:37:07,722 - [base.py-->line:37] - INFO: 正在对元素:('id', 'userName')执行输入:abc操作
+2022-11-24 14:37:07,778 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'user-tel')
+2022-11-24 14:37:07,794 - [base.py-->line:33] - INFO: 正在对元素:('id', 'user-tel')执行清空操作
+2022-11-24 14:37:07,818 - [base.py-->line:37] - INFO: 正在对元素:('id', 'user-tel')执行输入:15344445555操作
+2022-11-24 14:37:07,906 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'user-email')
+2022-11-24 14:37:07,922 - [base.py-->line:33] - INFO: 正在对元素:('id', 'user-email')执行清空操作
+2022-11-24 14:37:07,938 - [base.py-->line:37] - INFO: 正在对元素:('id', 'user-email')执行输入:15344445555@qq.com操作
+2022-11-24 14:37:08,090 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'userAccount')
+2022-11-24 14:37:08,098 - [base.py-->line:33] - INFO: 正在对元素:('id', 'userAccount')执行清空操作
+2022-11-24 14:37:08,122 - [base.py-->line:37] - INFO: 正在对元素:('id', 'userAccount')执行输入:abc操作
+2022-11-24 14:37:08,186 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginPwd')
+2022-11-24 14:37:08,194 - [base.py-->line:33] - INFO: 正在对元素:('id', 'loginPwd')执行清空操作
+2022-11-24 14:37:08,210 - [base.py-->line:37] - INFO: 正在对元素:('id', 'loginPwd')执行输入:123456操作
+2022-11-24 14:37:08,282 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'confirmPwd')
+2022-11-24 14:37:08,290 - [base.py-->line:33] - INFO: 正在对元素:('id', 'confirmPwd')执行清空操作
+2022-11-24 14:37:08,314 - [base.py-->line:37] - INFO: 正在对元素:('id', 'confirmPwd')执行输入:123456操作
+2022-11-24 14:37:08,386 - [base.py-->line:26] - INFO: 正在点击元素:('id', 'submitBtn')
+2022-11-24 14:37:08,386 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'submitBtn')
+2022-11-24 14:37:08,913 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:08,913 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:08,965 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:08,965 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:09,341 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:09,357 - [base.py-->line:73] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:23,717 - [base.py-->line:13] - INFO: 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="17acb7df5061316184974f9acfa4c08f")>
+2022-11-24 14:37:23,717 - [login_page.py-->line:22] - INFO: 正在调用登录业务方法，用户名为：admin，密码为：123456
+2022-11-24 14:37:23,717 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'userAccount')
+2022-11-24 14:37:23,736 - [base.py-->line:33] - INFO: 正在对元素:('id', 'userAccount')执行清空操作
+2022-11-24 14:37:23,819 - [base.py-->line:37] - INFO: 正在对元素:('id', 'userAccount')执行输入:admin操作
+2022-11-24 14:37:23,894 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginPwd')
+2022-11-24 14:37:23,910 - [base.py-->line:33] - INFO: 正在对元素:('id', 'loginPwd')执行清空操作
+2022-11-24 14:37:23,943 - [base.py-->line:37] - INFO: 正在对元素:('id', 'loginPwd')执行输入:123456操作
+2022-11-24 14:37:24,015 - [base.py-->line:26] - INFO: 正在点击元素:('id', 'loginBtn')
+2022-11-24 14:37:24,015 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginBtn')
+2022-11-24 14:37:24,083 - [base.py-->line:13] - INFO: 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="17acb7df5061316184974f9acfa4c08f")>
+2022-11-24 14:37:24,083 - [delete_user_page.py-->line:40] - INFO: =========正在调用删除用户方法==========
+2022-11-24 14:37:24,083 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:24,083 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dt')
+2022-11-24 14:37:24,866 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:24,866 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="menu-user"]/dd/ul/li[1]/a')
+2022-11-24 14:37:25,203 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:25,211 - [base.py-->line:73] - INFO: 正在查找元素:('xpath', '//*[@id="iframe_box"]/div[2]/iframe')
+2022-11-24 14:37:25,227 - [base.py-->line:26] - INFO: 正在点击元素:('xpath', '//*[@title="删除"]')
+2022-11-24 14:37:25,227 - [base.py-->line:19] - INFO: 正在查找元素:('xpath', '//*[@title="删除"]')
+2022-11-24 14:37:25,904 - [base.py-->line:26] - INFO: 正在点击元素:('css selector', '.xubox_yes')
+2022-11-24 14:37:25,904 - [base.py-->line:19] - INFO: 正在查找元素:('css selector', '.xubox_yes')
+2022-11-24 14:37:39,641 - [base.py-->line:13] - INFO: 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7e978537922c8959e21f67080a28ded")>
+2022-11-24 14:37:39,642 - [login_page.py-->line:22] - INFO: 正在调用登录业务方法，用户名为：admin，密码为：123456
+2022-11-24 14:37:39,642 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'userAccount')
+2022-11-24 14:37:39,666 - [base.py-->line:33] - INFO: 正在对元素:('id', 'userAccount')执行清空操作
+2022-11-24 14:37:39,686 - [base.py-->line:37] - INFO: 正在对元素:('id', 'userAccount')执行输入:admin操作
+2022-11-24 14:37:39,823 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginPwd')
+2022-11-24 14:37:39,841 - [base.py-->line:33] - INFO: 正在对元素:('id', 'loginPwd')执行清空操作
+2022-11-24 14:37:39,869 - [base.py-->line:37] - INFO: 正在对元素:('id', 'loginPwd')执行输入:123456操作
+2022-11-24 14:37:39,940 - [base.py-->line:26] - INFO: 正在点击元素:('id', 'loginBtn')
+2022-11-24 14:37:39,941 - [base.py-->line:19] - INFO: 正在查找元素:('id', 'loginBtn')

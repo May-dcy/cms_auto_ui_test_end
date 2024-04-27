@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 27 17:13:05 CST 2024","Sat Apr 27 17:13:05 CST 2024","186","testcase.login_case","test_login","TestLogin","","","test_login[admin-123456]","该用例是针对admin用户登录ui自动化的测试"
+"passed","Sat Apr 27 17:12:48 CST 2024","Sat Apr 27 17:12:50 CST 2024","2001","testcase.add_user_case","test_add_user","TestAddUser","","","test_add_user[abc-15344445555-15344445555@qq.com-abc-123456-123456]","该用例是针对添加用户正常场景的ui自动化测试"
+"passed","Sat Apr 27 17:12:57 CST 2024","Sat Apr 27 17:12:58 CST 2024","1026","testcase.delete_user_case","test_delete_user","TestDelete","","","test_delete_user","该用例是针对删除用户正常场景的ui自动化测试"

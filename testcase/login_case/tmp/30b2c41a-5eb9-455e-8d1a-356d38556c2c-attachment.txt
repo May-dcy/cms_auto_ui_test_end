@@ -1,0 +1,11 @@
+INFO     root:base.py:13 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="6d34da1ac5d46f1a82548ad14cb94128")>
+INFO     root:login_page.py:22 正在调用登录业务方法，用户名为：admin，密码为：123456
+INFO     root:base.py:19 正在查找元素:('id', 'userAccount')
+INFO     root:base.py:33 正在对元素:('id', 'userAccount')执行清空操作
+INFO     root:base.py:37 正在对元素:('id', 'userAccount')执行输入:admin操作
+INFO     root:base.py:19 正在查找元素:('id', 'loginPwd')
+INFO     root:base.py:33 正在对元素:('id', 'loginPwd')执行清空操作
+INFO     root:base.py:37 正在对元素:('id', 'loginPwd')执行输入:123456操作
+INFO     root:base.py:26 正在点击元素:('id', 'loginBtn')
+INFO     root:base.py:19 正在查找元素:('id', 'loginBtn')
+ERROR    root:base.py:59 断言出错，正在执行截图操作

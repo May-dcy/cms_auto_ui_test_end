@@ -1,0 +1,10 @@
+INFO     root:base.py:15 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3964ce0378bff471e79197c59d494430")>
+INFO     root:login_page.py:22 正在调用登录业务方法，用户名为：admin，密码为：123456
+INFO     root:base.py:36 正在查找元素:('id', 'userAccount')
+INFO     root:base.py:73 正在对元素:('id', 'userAccount')执行清空操作
+INFO     root:base.py:77 正在对元素:('id', 'userAccount')执行输入:admin操作
+INFO     root:base.py:36 正在查找元素:('id', 'loginPwd')
+INFO     root:base.py:73 正在对元素:('id', 'loginPwd')执行清空操作
+INFO     root:base.py:77 正在对元素:('id', 'loginPwd')执行输入:123456操作
+INFO     root:base.py:61 正在点击元素:('id', 'loginBtn')
+INFO     root:base.py:36 正在查找元素:('id', 'loginBtn')
